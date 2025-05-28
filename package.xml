@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Package xmlns="http://soap.sforce.com/2006/04/metadata">
+    <types>
+        <members>Knowledge__kav.Answer__c</members>
+        <members>Knowledge__kav.Detail__c</members>
+        <members>Knowledge__kav.Issue__c</members>
+        <members>Knowledge__kav.Question__c</members>
+        <members>Knowledge__kav.Resolution__c</members>
+        <members>Knowledge__kav.Root_Cause__c</members>
+        <members>Knowledge__kav.Workaround__c</members>
+        <members>custom_nmaliackal__c.aaa__c</members>
+        <name>CustomField</name>
+    </types>
+    <types>
+        
+        <members>ChangeRequest-Change Request Layout</members>
+       
+        <members>Incident-Incident Layout</members>
+        <members>Incident__c-Custom_Incident Layout</members>
+       
+        <members>Problem-Problem Layout</members>
+      
+        <name>Layout</name>
+    </types>
+   
+    <types>
+        <members>Knowledge__kav.FAQ</members>
+        <members>Knowledge__kav.Known_Error</members>
+        <name>RecordType</name>
+    </types>
+    <version>62.0</version>
+</Package>
